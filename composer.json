@@ -1,0 +1,15 @@
+{
+    "name": "allen/laravel-synology-chat",
+    "authors": [
+        {
+            "name": "Allen",
+            "email": "9allenzhao@mail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Allen\\Synology\\": "src/"
+        }
+    }
+}
