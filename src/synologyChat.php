@@ -1,5 +1,5 @@
 <?php
-namespace Allen\Synology;
+namespace Auoyi\Synology;
 
 use GuzzleHttp\Client;
 use Illuminate\Config\Repository;

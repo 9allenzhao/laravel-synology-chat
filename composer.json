@@ -1,5 +1,5 @@
 {
-    "name": "allen/laravel-synology-chat",
+    "name": "auoyi/laravel-synology-chat",
     "authors": [
         {
             "name": "Allen",
@@ -9,7 +9,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Allen\\Synology\\": "src/"
+            "Auoyi\\Synology\\": "src/"
         }
     }
 }

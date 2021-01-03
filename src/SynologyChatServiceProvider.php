@@ -1,6 +1,6 @@
 <?php
 
-namespace Allen\Synology;
+namespace Auoyi\Synology;
 
 use Illuminate\Support\ServiceProvider;
 

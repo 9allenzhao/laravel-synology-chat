@@ -1,5 +1,5 @@
 <?php
-namespace Allen\Synology\Facades;
+namespace Auoyi\Synology\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
